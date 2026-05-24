@@ -1,6 +1,6 @@
-# FastAPI and NiceGUI Full-Stack Template
+# Example App based on jaehyeon-kim FastAPI and NiceGUI Full-Stack template
 
-This repository provides a template for building full-stack web applications using **FastAPI** for the backend and **NiceGUI** for the frontend. It includes a complete setup for a PostgreSQL database, JWT authentication, and a clean project structure, making it an excellent starting point for demos, prototypes, and internal tools.
+This repository provides an example app built from the v1.0 jaehyeon-kim template for building full-stack web applications.
 
 ## Why FastAPI and NiceGUI?
 
@@ -37,7 +37,7 @@ Follow these instructions to get the project running on your local machine.
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/jaehyeon-kim/nicegui-fastapi-template.git
+    git clone https://github.com/iocrumb-art/nicegui-fastapi-template.git
     cd nicegui-fastapi-demo
     ```
 
