@@ -1,6 +1,6 @@
-# Example App based on jaehyeon-kim FastAPI and NiceGUI Full-Stack template
+# Example App based on jaehyeon-kim template
 
-This repository provides an example app built from the v1.0 jaehyeon-kim template for building full-stack web applications.
+This repository provides an example app built from the v1 jaehyeon-kim template for building full-stack web applications.
 
 ## Why FastAPI and NiceGUI?
 
