@@ -127,19 +127,16 @@ Once the server is running, you can access the following URLs:
 
 - The main user interface built with NiceGUI.
 
-![](./images/demo.gif)
+![](./images/demo1.png)
 
-**API Docs (Swagger UI)**: [http://localhost:8000/docs](http://localhost:8000/docs)
 
-- Interact with and test the API endpoints directly from your browser.
+![](./images/demo2.png)
 
-![](./images/docs.png)
 
-**Alternate API Docs (ReDoc)**: [http://localhost:8000/redoc](http://localhost:8000/redoc)
+![](./images/demo3.png)
 
-- View a clean and concise API documentation.
 
-![](./images/redoc.png)
+![](./images/demo4.png)
 
 ### Stopping and Cleaning Up
 
