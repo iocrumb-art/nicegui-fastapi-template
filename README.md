@@ -38,7 +38,7 @@ Follow these instructions to get the project running on your local machine.
 
     ```bash
     git clone https://github.com/iocrumb-art/nicegui-fastapi-template.git
-    cd nicegui-fastapi-demo
+    cd nicegui-fastapi-template
     ```
 
 2.  **Create a Virtual Environment and Install Dependencies**
