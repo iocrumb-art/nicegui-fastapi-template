@@ -98,7 +98,7 @@ Follow these instructions to get the project running on your local machine.
     ```
 
 3.  **Configure Environment Variables**
-    Inspect the `.env` file in the project root. Make note of the password for admin account u016645151@example.com on the last line.
+    Inspect the `.env` file in the project root. Make note of the last two lines showing admin account and password.
 
     ```bash
     cat .env
