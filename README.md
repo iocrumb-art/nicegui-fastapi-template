@@ -98,13 +98,13 @@ Follow these instructions to get the project running on your local machine.
     ```
 
 3.  **Configure Environment Variables**
-    Create a `.env` file in the project root by copying the example file.
+    Inspect the `.env` file in the project root. Make note of the password for admin account u016645151@example.com on the last line.
 
     ```bash
-    cp .env.example .env
+    cat .env
     ```
 
-    You can modify the `.env` file if needed, but the default values are configured to work with the Docker Compose setup.
+    You can modify the `.env` file however changing values may affect the project from running correctly. 
 
 4.  **Start the PostgreSQL Database**
     Run the following command to start the PostgreSQL database container in the background.
