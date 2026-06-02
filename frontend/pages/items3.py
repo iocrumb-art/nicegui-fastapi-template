@@ -7,7 +7,7 @@ from nicegui import ui
 from pathlib import Path
 from nicegui import events
 
-@ui.page("/items3", dark=True)
+@ui.page("/items3", dark=True, reconnect_timeout=60)
 def items_page():
     """Defines the page for displaying and creating user items."""
 
